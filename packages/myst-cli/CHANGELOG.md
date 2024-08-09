@@ -1,5 +1,21 @@
 # myst-cli
 
+## 1.3.4
+
+### Patch Changes
+
+- 857c5ac: Add raw directives/roles for inserting tex/typst-specific content
+- Updated dependencies [857c5ac]
+  - myst-spec-ext@1.5.3
+  - myst-to-typst@0.0.21
+  - myst-to-tex@1.0.34
+  - myst-common@1.5.3
+  - myst-config@1.5.3
+  - myst-frontmatter@1.5.3
+  - tex-to-myst@1.0.34
+  - myst-parser@1.5.3
+  - myst-transforms@1.3.22
+
 ## 1.3.3
 
 ### Patch Changes
